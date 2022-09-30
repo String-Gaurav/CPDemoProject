@@ -1,4 +1,4 @@
-# REST Assured API JAVA Automation Framework
+# Amazon UI Automation Framework
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
@@ -10,7 +10,7 @@
  Outline a brief description of this project.
 -Selenium 4 Framework with TestNG, Maven, Extent Reporting.
 -  WebSite: https://www.amazon.in
--  Clone the project - git clone https://github.com/String-Gaurav/apiAutomation.git
+-  Clone the project - git clone https://github.com/String-Gaurav/CPDemoProject.git
 
 
 	
